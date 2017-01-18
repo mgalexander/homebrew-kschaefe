@@ -1,9 +1,9 @@
 class AntGitTasks < Formula
   desc "Git tasks for Apache Ant"
   homepage "https://github.com/rimerosolutions/ant-git-tasks"
-  url "https://oss.sonatype.org/content/repositories/releases/com/rimerosolutions/ant/ant-git-tasks/0.0.1/ant-git-tasks-0.0.1.jar"
-  version "0.0.1"
-  sha1 "65bed4e1111eaceae7cfd58e69a480525a9302b4"
+  url "https://oss.sonatype.org/content/repositories/releases/com/rimerosolutions/ant/ant-git-tasks/1.3.2/ant-git-tasks-1.3.2.jar"
+  version "1.3.2"
+  sha256 "c1b304bd8fe0c39668a0c5b7450a516da87a25b8c13f8cb280820534522820db"
 
   bottle :unneeded
 
