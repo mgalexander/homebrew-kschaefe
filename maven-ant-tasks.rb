@@ -1,7 +1,7 @@
 class MavenAntTasks < Formula
   desc "Maven tasks for Apache Ant"
   homepage "http://maven.apache.org/components/ant-tasks/"
-  url "http://www.apache.org/dyn/closer.cgi?path=maven/ant-tasks/2.1.3/binaries/maven-ant-tasks-2.1.3.jar"
+  url "http://www.apache.org/dyn/closer.cgi/maven/ant-tasks/2.1.3/binaries/maven-ant-tasks-2.1.3.jar"
   version "2.1.3"
   sha256 "f16b5ea711dfe0323454b880180aa832420ec039936e4aa75fb978748634808a"
 
